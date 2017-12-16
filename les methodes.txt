@@ -1,0 +1,3 @@
+methode : majuscule  .upper()
+	  minuscule  .lower()
+	  sansespace .strig()	

@@ -1,0 +1,11 @@
+Capital = float(input("entrer un capital: ")
+nbA = int(input("entrer une année : ")
+taux = float(input("entrer un taux de i: ")
+
+for k in range(1,n+1):
+	Capital = Capital*(1+taux)
+	if Capital>=d:
+		print("Le taux capital double.")
+		break
+	else:
+        print("Votre taux capital n'est pas valide.")
